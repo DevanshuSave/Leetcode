@@ -1,8 +1,8 @@
 /*
 
 https://leetcode.com/problems/word-pattern
-Difficulty: Easy
 
+Difficulty: Easy
 
 Given a pattern and a string str, find if str follows the same pattern.
 

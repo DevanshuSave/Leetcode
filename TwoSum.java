@@ -16,7 +16,6 @@ return [0, 1].
 
 */
 
-
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] answer = new int[2];
