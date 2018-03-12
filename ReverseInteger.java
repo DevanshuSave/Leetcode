@@ -15,7 +15,7 @@ The input is assumed to be a 32-bit signed integer. Your function should return 
 */
 
 
-public class Solution {
+public class ReverseInteger {
     public int reverse(int x) {
         long a=0;
         int flag=1;

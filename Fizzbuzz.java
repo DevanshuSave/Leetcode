@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 /*
 
 https://leetcode.com/problems/fizz-buzz/
@@ -10,9 +13,9 @@ But for multiples of three it should output “Fizz” instead of the number and for
 
 */
 
-public class Solution {
+public class Fizzbuzz {
     public List<String> fizzBuzz(int n) {
-        List <String> l = new ArrayList <String>();
+        List <String> l = new ArrayList<String>();
         String s;
         for(int i=1;i<=n;i++) {
             s="";

@@ -10,7 +10,7 @@ Example:
 Given s = "hello", return "olleh".
 
 */
-public class Solution {
+public class ReverseString {
     public String reverseString(String s) {
         int i=s.length();
         char[] s1 = new char[i];
